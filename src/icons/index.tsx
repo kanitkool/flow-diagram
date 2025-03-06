@@ -1,0 +1,1 @@
+import IconMultipleUser from './icon-multiple-user.svg';
